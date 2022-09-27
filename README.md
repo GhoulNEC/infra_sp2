@@ -21,14 +21,7 @@
 * gunicorn
 * Docker
 
-С полным списком технологий можно ознакомиться в файле requirements.txt
-</details>
-
-***
-<details>
-     <summary style="font-size: 16pt; font-weight: bold">Документация</summary>
-
-С документацией проекта можно ознакомиться по [ссылке](http://127.0.0.1:8000/redoc/) после запуска проекта.
+С полным списком технологий можно ознакомиться в файле ```requirements.txt```
 </details>
 
 ***
@@ -86,6 +79,8 @@ docker-compose exec web python manage.py collectstatic --no-input
 ```
 
 Проект будет доступен по [ссылке](http://localhost)
+
+С документацией проекта можно ознакомиться по [ссылке](http://127.0.0.1:8000/redoc/)
 
 </details>
 
